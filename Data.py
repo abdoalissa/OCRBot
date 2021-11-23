@@ -15,20 +15,20 @@ By @StarkBots
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton("✨ مطور من قبل عبداللطيف العيسى ,  facebook :  ✨", url="https://www.facebook.com/abdo.alissa.me")],
+        [InlineKeyboardButton(text="🏠 العودة للصفحة الرئيسية 🏠", callback_data="الرئيسية")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")
+            InlineKeyboardButton("✨ مطور من قبل عبداللطيف العيسى ,  Facebook : ✨", url="https://www.facebook.com/abdo.alissa.me")
         ],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("كيف يمكن استخدامه ؟ ❔", callback_data="مساعدة"),
+            InlineKeyboardButton("🎪 حول البوت 🎪", callback_data="حول")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ التواصل مع المطور  ♥", url="https://t.me/abdoalissa")],
+        [InlineKeyboardButton("🎨 الدعم  🎨", url="https://t.me/abdoalissa")],
     ]
 
     # Help Message
@@ -39,20 +39,20 @@ Just send an image. Rest is on me.
 
 Note : You can send any amount of images at once and it will work with same speed and accuracy.
 
-More features in development. Keep track by joining @StarkBots.
+More features in development. Keep track by contact @abdoalissa .
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @abdoalissa
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/OCRBot)
+Source Code : contact with me please :) :) 
 
-Framework : [Pyrogram](docs.pyrogram.org)
+Framework : just python
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @abdoalissa
     """
