@@ -10,7 +10,7 @@ Welcome to {}
 
 I can extract text from images using OCR technology.
 
-By @StarkBots
+By @abdoalissa
     """
 
     # Home Button
